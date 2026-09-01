@@ -1,4 +1,4 @@
-sql-exploratory-data-analysis-analysis-project
+## sql-exploratory-data-analysis -project
 
 Completed as a guided exercise following The Complete SQL Bootcamp by Baraa Khatib Salkini.  Built to practice SQL data exploration, cleaning, and validation. 
 
